@@ -1,4 +1,5 @@
-#PF-Assgn-16
+#Coins problem: You have coins of 5 and 1 only. You have to find how much you need to make the given number. If you can't output -1
+
 def make_amount(rupees_to_make,no_of_five,no_of_one):
     five_needed=0
     one_needed=0
