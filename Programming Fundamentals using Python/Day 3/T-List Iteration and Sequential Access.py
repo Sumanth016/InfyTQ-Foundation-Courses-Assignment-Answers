@@ -42,4 +42,13 @@ print("Iterating the list using keyword in")
 for airline in list_of_airlines:
     print(airline)
     
-    
+'''
+Iterating the list using range()
+AI
+EM
+BA
+Iterating the list using keyword in
+AI
+EM
+BA
+'''
