@@ -1,5 +1,4 @@
 '''
-
 Creating a list:
 
 Creating an empty list-
@@ -35,6 +34,7 @@ sample_list=sample_list+new_list	        #sample_list+=new_list, concatenates ne
 
 sample_list=sample_list+new_list           # creates a new list named sample_list containing the concatenated elements from the original sample_list and new_list
 '''
+
 list_of_airlines=["AI","EM","BA"]
 
 print("Iterating the list using range()")
