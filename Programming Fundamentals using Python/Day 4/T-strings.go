@@ -26,3 +26,20 @@ func main(){
         fmt.Println(string(r),"at",i)
     }
 }
+
+/*
+Length of the PAN card number: 10
+PAN card
+The last alphabet of the PAN card number: H
+The numbers in the PAN card number: 6715
+A at 0
+A at 1
+B at 2
+G at 3
+T at 4
+6 at 5
+7 at 6
+1 at 7
+5 at 8
+H at 9
+*/
