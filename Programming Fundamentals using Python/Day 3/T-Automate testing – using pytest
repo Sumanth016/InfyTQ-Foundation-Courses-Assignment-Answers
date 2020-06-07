@@ -1,0 +1,12 @@
+pytest can be used to write test cases and automatically test a program. Let’s see how we can write test cases using pytest for the boarding requirement.
+
+Note: Here we are assuming that the boarding requirement is implemented in a function named boarding which accepts the seat_number and returns the batch_no.
+
+import pytest
+
+def test_boarding_1():
+  result=boarding(0)
+  assert result==-1
+
+
+Test functions should be written in a similar manner for the remaining test data as well.
