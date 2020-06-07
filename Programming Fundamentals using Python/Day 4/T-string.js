@@ -17,3 +17,5 @@ for (i=0;i < pancardNumber.length;i++)
 
 //Slicing a string
 console.log("The numbers in the PAN card number: "+pancardNumber.slice(5,9));
+
+//Length of the PAN card number: 10PAN cardAABGT6715HThe numbers in the PAN card number: 6715
