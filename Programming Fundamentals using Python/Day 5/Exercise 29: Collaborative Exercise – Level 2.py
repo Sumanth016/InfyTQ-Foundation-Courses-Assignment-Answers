@@ -12,3 +12,8 @@ merged_list=merge_lists(list1=[1,2,3,4,1] ,list2=[2,3,4,5,4,6])
 print(merged_list)
 sorted_merged_list=sort_list(merged_list)
 print(sorted_merged_list)
+
+'''
+[1, 2, 3, 4, 1, 2, 3, 4, 5, 4, 6]
+[1, 1, 2, 2, 3, 3, 4, 4, 4, 5, 6]
+'''
