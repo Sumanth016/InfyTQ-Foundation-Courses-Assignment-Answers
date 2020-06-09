@@ -1,0 +1,295 @@
+Q1 of 25      When the values of a=7, b=6 and c=3, which among the following logical expressions would be FALSE?
+i.   (a+b)>(c) and (a*b+c)>=(c+a)
+ii.  (a*b)>(c*a) and (a*b)<=(a*b*c)
+iii. (a*c)>(a*b*c) or (a*c)<=(b*c)
+iv.  not((a*c)>(c*a) and (a*c)<=(b*c))
+
+  only i
+  only ii
+  ###### ## only iii              
+  only iv
+
+Q2 of 25   What would be the output of the below Python code?
+
+  1 <br> 5
+  ###########  1<br> 4<br> 5
+  2<br> 4<br> 5
+  1 <br> 4
+
+Q3 of 25    Consider the marks list given below.
+Identify the Python code to be written in the Line 1 such that the output is [“FA2”,95]
+
+  #############  report=report[:1]+marks[5:]
+  report=marks[2:3]+marks[-2:]
+  report=marks[-4:-2]
+  report=report[:2]
+
+Q4 of 25   What would be the output of following Python code? 
+A) Before swapping: name1=Roger name2=Robert <br>
+   After swapping: name1=None name2=None
+B) Before swapping: name1=Roger name2=Robert <br>
+   After swapping: name1=Robert name2=Robert
+C) Before swapping: name1=Roger name2=Robert <br>
+   After swapping: name1=Roger name2=Robert
+D) Before swapping: name1=Roger name2=Robert <br>
+   After swapping: name1=Robert name2=Roger
+   
+  A
+  B
+  #######  C
+  D
+
+Q5 of 25    Consider a Python dictionary which represents a ship's crew.
+Jack has been promoted as a Captain and a new member Tom has joined as a Co-Captain.
+What code should be written in order to have these details updated in the dictionary.
+Choose TWO CORRECT options from below. 
+A) ship_crew['Co-Captain']="Tom"      <br>
+   ship_crew['Co-Captain']=ship_crew['Captain']
+B) ship_crew['Co-Captain']="Tom"      <br>
+   ship_crew['Captain']="Jack"
+C) ship_crew['Captain']=ship_crew['Co-Captain']      <br>
+   ship_crew['Co-Captain']="Tom"
+D) ship_crew['Captain']="Tom"      <br>
+   ship_crew['Co-Captain']="Jack"
+   
+  A
+  ####### B
+  ####### C
+  D
+
+Q6 of 25   What is the output of the below Python code?
+Note:Assume that necessary imports have been done
+
+  ########## 3
+  2
+  1
+  4
+
+Q7 of 25   What would be the output of the below Python code?
+
+  eduparker@edu.com
+  ######## indiparker@edu.com
+  eduparker@ind.com
+  The code will not result in any output as there is no match
+
+Q8 of 25   What would be the output of the below Python code?
+
+  [3, 6, 9]
+  ##########  [1, 2, 4, 5, 7, 8]
+  [2, 4, 6, 8]
+  [1, 3, 5, 7, 9]
+
+Q9 of 25     What would be the output of the below Python code?
+A) Within second block      <br>  
+   Which is multiple of 5    <br>
+   Good bye!
+B) Could not find true expression      <br>
+   Good bye!
+C) Within second block     <br>
+   Neither multiple of 5 nor multiple of 10     <br>
+   Good bye!
+D) Within first block      <br>
+   Which is 100      <br>
+   Good bye!
+   
+  ######## A
+  B
+  C
+  D
+
+Q10 of 25   What does the below Python code do?
+
+  Prints the square of numbers from 1 to 6
+  ########   Prints the square of numbers from 1 to 5
+  Prints prime numbers from 1 to 6
+  Prints prime numbers from 1 to 5
+
+Q11 of 25  What will be the output of the below Python code?
+
+  ######## 2.0
+  4.0
+  10.0
+  8.0
+
+Q12 of 25  What would be the output of the below Python code?
+A) 0 10 <br>
+   1 9 <br>
+   2 8 <br>
+   3 7 <br>
+   4 6 <br>
+   5 5
+   
+B) 1 9 <br>
+   2 8 <br>
+   3 7 <br>
+   4 6
+   
+C) 0 10 <br>
+   1 9 <br>
+   2 8 <br>
+   3 7 <br>
+   4 6
+   
+D) 1 9 <br>
+   2 8 <br>
+   3 7 <br>
+   4 6 <br>
+   5 5
+   
+  A
+  B
+  #########  C
+  D
+
+Q13 of 25    What is the output of the below Python code?
+
+  HELLO?
+  ########  HELLO
+  fine
+  Hello? how are u?
+  
+Q14 of 25  What is the output of the below Python code?
+A) Count : 2 <br>
+   mack AND mill went up THE hill
+   
+B) Count : 3 <br>
+   Mack and Mill went up the Hill
+   
+C) Count : 3 <br>
+   MACK and MILL WENT UP the HILL
+   
+D) Count : 1 <br>
+   mack and mill went up the hill
+   
+  #######  A
+  B
+  C
+  D
+
+Q15 of 25  Consider the below Python code:
+From the given options, identify the functions calls which would return the value 25.
+Choose TWO CORRECT options.
+
+  fun(11)
+  fun(12)
+  #######  fun(9)
+  #######  fun(10)
+
+Q16 of 25   Consider the below given Python code.
+From the given options, identify the function calls which would result in the same value.
+Choose TWO correct options.
+
+  ######   calculate(10,55)
+  calculate(60,30)
+  calculate(27,47)
+  ######   calculate(45,20)
+
+
+Q17 of 25   Choose an expression (from the options given) which would give the same logical outcome for the expression given below:
+a=5
+b=5
+c=1
+d=1
+i=0
+(a+b)>(c/d) and i<=(a-c*b)
+
+  not ((c>=d) and (c==d)
+  ######  not ((d>=b) or (a==c))
+  (d>=b) and (a>=b)
+  (c==d) and (a>b)
+
+Q18 of 25  What would be the output of the below Python code?
+A) T<br>
+   IF<br>
+   V<br>
+   OF
+   
+B) V <br>
+   OF
+   
+C) IF <br>
+   V <br>
+   OF
+   
+C) T <br>
+   IF <br>
+   V
+   
+  T<br> IF<br> V<br> OF
+  V <br> OF
+  ###########  IF <br> V <br> OF
+  T <br> IF <br> V
+
+Q19 of 25  What will be the output of the below Python code?
+A) This code will result in an error as we cannot concatenate a tuple to a str 
+B)  This code will result in an error as tuple is immutable
+C) A 2 <br>
+   B 4 <br>
+   C 2 <br>
+   D 5 <br>
+   E 4
+D) A 2 <br>
+   B 4 <br>
+   C 2 <br>
+   D 5 <br>
+   
+  A
+  B
+  #######  C
+  D
+
+Q20 of 25  What will be the output of the below Python code?
+
+  0 None
+  #######  2 None
+  0 True
+  2 False
+
+Q21 of 25   Choose the statements which are CORRECT with respect to the below Python code.
+1.We cannot have a positional argument after arg2 in func1
+2.arg4 is a positional argument
+3.arg5 and arg6 are keyword arguments
+4.arg1 and arg3 are positional arguments
+5.*argument_name indicates default argument
+
+  1
+  2
+  3
+  4
+
+Q22 of 25  What will be the output of the following Python code snippet?
+Assume that the 're' library has been imported.
+
+  Encountered Error : error code E#0#
+  #######  Encountered Error : error code #101
+  Encountered Error : error code E101
+  Encountered Error : error code E#101
+
+Q23 of 25    Consider below Python codes:
+Which of the above code(s) will produce below output?
+All  that  glitters  is  not  gold  [3, 4, 8, 2, 3, 4]
+
+  Both Code 1 and Code 2
+  ##########  Only Code 1
+  Only Code 2
+  Neither Code 1 nor Code 2
+
+Q24 of 25   Consider the below given Python code.
+Identify the line numbers that will be covered when the function, func is invoked using the below test data.
+a=3,b=5 and c=1
+
+  ##########  Line1, Line3, Line4, Line5
+  Line1, Line 2, Line6, Line7, Line8, Line9
+  It will cover all the lines
+  Line3, Line4, Line5
+
+Q25 of 25  Consider the below given Python code.
+Which among the following test data when passed to function, func will cover the code written in Line 6.
+Choose TWO correct options.
+
+  my_lst=[5,10,15,20,25], a=5
+  ########   my_lst=[2,5,8,11,14,17,21],a=2
+  my_lst=[18,24,30,36,42], a=3
+  ########   my_lst=[13,17,23,27,33,37], a=7
+
+
