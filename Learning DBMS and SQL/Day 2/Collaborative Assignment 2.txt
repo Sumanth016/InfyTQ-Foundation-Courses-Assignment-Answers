@@ -1,0 +1,7 @@
+create table Shopper(
+  Shopperid integer primary key,
+  ShopperName varchar2(20) not null,
+  Gender char(6) check(GENDER in ('Male','Female')),
+  MobileNo number NOT NULL,
+  Address varchar2(50)
+ );
