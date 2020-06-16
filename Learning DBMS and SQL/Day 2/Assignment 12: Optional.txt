@@ -1,0 +1,5 @@
+alter table City drop column City;
+
+or
+
+ALTER TABLE CITY DROP(CITY);
