@@ -1,0 +1,1 @@
+insert into Salesman values(11,'Elizabeth','London');
