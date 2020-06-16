@@ -1,0 +1,1 @@
+alter table Supplier drop column Emailid;
