@@ -1,0 +1,3 @@
+select PRODID,PDESC,CATEGORY,DISCOUNT
+from Product
+where PDESC is NULL;
