@@ -1,0 +1,1 @@
+update Product set DISCOUNT=25 where CATEGORY='Sports';
